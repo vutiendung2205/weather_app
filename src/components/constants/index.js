@@ -1,0 +1,1 @@
+export const URL_TEMP = `api.openweathermap.org/data/2.5/weather?q=${cityname}&appid=a2fedcfd468d6f0a1fa7cf2b710ae5a5`;
